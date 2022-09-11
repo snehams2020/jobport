@@ -15,8 +15,11 @@ Edit jobs
 <img width="960" alt="otp logim" src="https://user-images.githubusercontent.com/100792178/189521851-af851dec-4e1a-4368-8a74-da839a4582d0.png">
 View jobs
 <img width="960" alt="otp logim" src="https://user-images.githubusercontent.com/100792178/189521871-5e26f4e1-49f0-4a84-bab6-c4bca1be8e38.png">
-Delete jobs
-Expire jobs
+
+
+   Delete jobs
+   
+  Expire jobs
 run below command
 
 php artisan expire:daily
